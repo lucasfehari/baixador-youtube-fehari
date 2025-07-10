@@ -69,4 +69,4 @@ Ou utilize o botão "Instalar FFmpeg" na interface (Linux/Mac).
 MIT
 
 ---
-Desenvolvido por [Seu Nome]
+Desenvolvido por Lucas Fehari
